@@ -8,9 +8,8 @@ Welcome to **Something for You** – a heartfelt, minimal, and meaningful websit
 ## 📖 Table of Contents
 
 - [About](#about)
-- [Live Demo](#live-demo)
+- [Live Demo](https://something-for-you.tiiny.site)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
