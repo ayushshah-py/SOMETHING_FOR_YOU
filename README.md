@@ -67,7 +67,7 @@ All you need is a modern web browser like Chrome, Firefox, or Edge.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/something-for-you.git
+   git clone https://github.com/ayushshah-py/SOMETHING_FOR_YOU.git
    ```
 2. Navigate to the project folder:
    ```bash
