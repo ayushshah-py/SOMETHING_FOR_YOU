@@ -33,11 +33,7 @@ This project was created by [AYUSH SHAH](https://github.com/ayushshah-py) as a p
 ## 🔗 Live Demo
 
 🚀 Check out the live version here:  
-👉 [https://your-live-site-link.com](https://your-live-site-link.com)
-
-*(Replace with your actual link if deployed on GitHub Pages or Netlify)*
-
----
+👉 [SOMTHING-FOR-YOU](https://something-for-you.tiiny.site)
 
 ## ✨ Features
 
